@@ -1,11 +1,11 @@
-
 <div>
-  <h2 align="center">Olá, eu me chamo Victor Rique </h2>
-  <p align="center">Eu estou aprendendo Hacking e Pentest na <a href="https://solyd.com.br/"><i>Solyd</i></a>, Eu também estou estudando programação através de aulas no youtube </p>
-</div>
-
-- 😄 Pronouns: ele/dele | him/his
-- ⌛ Age: 16 
+        <h2 align="center"> Hello! my name is Victor Rique</h2>
+        <h3 align="center"> I'm studying Computer Science at <a href="https://www.unipe.edu.br/aluno/"> UNIPE</a> university 
+            <br> and learning Offensive Security with the 
+            <a href="https://solyd.com.br/treinamentos/pentest-do-zero-ao-profissional-v2023/"> Solyd Offensive Security's </a>
+             Professional Pentest course</h3>
+      </div>
+ 
 
 <!-- <h1 align="center"> 
   Trybe
